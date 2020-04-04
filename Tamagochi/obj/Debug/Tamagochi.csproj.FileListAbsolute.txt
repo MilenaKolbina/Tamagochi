@@ -1,0 +1,4 @@
+C:\Users\МК\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.csprojAssemblyReference.cache
+C:\Users\МК\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.Form1.resources
+C:\Users\МК\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.Properties.Resources.resources
+C:\Users\МК\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.csproj.GenerateResource.cache
